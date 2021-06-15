@@ -1,0 +1,2 @@
+export const GET_MOVIE='GET_MOVIE'
+export const TOGGLE_FAVOURITE='TOGGLE_FAVOURITE'
